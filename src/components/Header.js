@@ -8,6 +8,8 @@ export default function Header({ name }) {
         <Link href="/">
           <a>{name}</a>
         </Link>
+        <br/>
+      
       </p>
     </header>
   );
